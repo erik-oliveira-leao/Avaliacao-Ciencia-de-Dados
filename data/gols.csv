@@ -1,0 +1,828 @@
+partida_id,rodada,clube,atleta,minuto
+6126,1,Gremio,André Felipe Ribeiro de Souza,55
+6127,1,Vitoria,Yago Rocha,13
+6127,1,Vitoria,Denílson Pereira Júnior,76
+6127,1,Flamengo,Lucas Paquetá,1
+6127,1,Flamengo,Réver,72
+6128,1,Santos,Pio,42
+6128,1,Santos,Rodrygo Silva de Goes,50
+6129,1,America-MG,Serginho,1
+6129,1,America-MG,Serginho,41
+6129,1,America-MG,Carlos Emiliano Pereira,38
+6130,1,Vasco,Wagner Ferreira dos Santos,87
+6130,1,Vasco,Yago Pikachu,90+9
+6130,1,Atletico-MG,Rómulo Otero,13
+6131,1,Internacional,Nicolás Federico López,38
+6131,1,Internacional,Nicolás Federico López,61
+6132,1,Corinthians,Rodrigo Eduardo Costa Marinho,45+1
+6132,1,Corinthians,Rodrigo Eduardo Costa Marinho,86
+6132,1,Fluminense,Richard Candido Coelho,48
+6133,1,Athletico-PR,Pablo Felipe Teixeira,52
+6133,1,Athletico-PR,Nikão,58
+6133,1,Athletico-PR,Thiago Carleto,68
+6133,1,Athletico-PR,Matheus Rossetto,88
+6133,1,Athletico-PR,Éderson Alves Ribeiro Silva,90+3
+6133,1,Chapecoense,Wellington Paulista,48
+6134,1,Sao Paulo,Bruno Alves,37
+6135,1,Botafogo-RJ,Igor Rabello,82
+6135,1,Palmeiras,Alejandro Guerra,54
+6136,2,Bahia,Júnior Brumado,90+4
+6137,2,Flamengo,Henrique Dourado,28
+6137,2,Flamengo,Henrique Dourado,35
+6138,2,Corinthians,Rodrigo Eduardo Costa Marinho,25
+6138,2,Corinthians,Sidcley Ferreira Pereira,27
+6138,2,Corinthians,Clayson Henrique da Silva Vieira,80
+6138,2,Corinthians,Gabriel Girotto Franco,86
+6140,2,Atletico-MG,Ricardo Oliveira,20
+6140,2,Atletico-MG,Róger Guedes,73
+6140,2,Vitoria,Gabriel Costa França,88
+6141,2,Fluminense,Pedro,49
+6142,2,Chapecoense,Wellington Paulista,19
+6142,2,Vasco,Andrés Ríos,54
+6143,2,Palmeiras,Eduardo Pereira Rodrigues,40
+6145,2,Sport,Everton Felipe,86
+6145,2,Botafogo-RJ,Rodrigo Lindoso,90+3
+6146,3,Botafogo-RJ,Brenner Marlos Varanda de Oliveira,36
+6146,3,Botafogo-RJ,Gilson Gomes do Nascimento,90+2
+6146,3,Gremio,Igor Rabello,38
+6148,3,Flamengo,Vinícius Júnior,42
+6148,3,Flamengo,Vinícius Júnior,53
+6148,3,Flamengo,Diego Ribas,71
+6150,3,Parana,Jhonny Lucas,90
+6150,3,Sport,José Rogério de Oliveira Melo,8
+6150,3,Sport,Jonathan Marlone,49
+6151,3,Atletico-MG,Róger Guedes,87
+6152,3,Fluminense,Pedro,89
+6152,3,Sao Paulo,Éder Militão,23
+6154,3,America-MG,Marcos Antônio da Silva Gonçalves,7
+6154,3,America-MG,Rafael Moura,35
+6154,3,Vitoria,Pedro Botelho,76
+6155,3,Santos,Diego Pituca,44
+6155,3,Vasco,Andrés Ríos,79
+6156,4,Vasco,Bruno Cosendey,57
+6156,4,Vasco,Caio Monteiro,63
+6156,4,Vasco,Andrés Ríos,79
+6156,4,Vasco,Kelvin Mateus de Oliveira,90+1
+6156,4,America-MG,Rafael Moura,32
+6157,4,Sao Paulo,Éverton Cardoso da Silva,25
+6157,4,Sao Paulo,Diego Souza,82
+6157,4,Atletico-MG,Róger Guedes,71
+6157,4,Atletico-MG,Ricardo Oliveira,78
+6158,4,Corinthians,Henrique Adriano Buss,40
+6158,4,Ceara,Wescley,9
+6159,4,Flamengo,Lucas Paquetá,71
+6159,4,Flamengo,Éverton Ribeiro,87
+6160,4,Cruzeiro,Dedé,72
+6161,4,Athletico-PR,Pablo Felipe Teixeira,90
+6161,4,Palmeiras,Bruno Henrique Corsini,44
+6161,4,Palmeiras,Marcos Rocha,60
+6161,4,Palmeiras,Willian Gomes de Siqueira,85
+6162,4,Vitoria,Neilton Mestzk,21
+6162,4,Fluminense,Pablo Dyego,73
+6162,4,Fluminense,Gilberto Moraes Júnior,86
+6163,4,Gremio,Maicon,31
+6163,4,Gremio,Maicon,55
+6163,4,Gremio,Everton Sousa Soares,45+2
+6163,4,Gremio,André Felipe Ribeiro de Souza,70
+6163,4,Gremio,Arthur,80
+6163,4,Santos,Jean Mota Oliveira de Souza,33
+6164,4,Sport,Douglas Friedrich,44
+6164,4,Sport,Cláudio Winck,49
+6165,4,Chapecoense,Arthur Caike do Nascimento Cruz,63
+6165,4,Parana,Carlos Júnior,68
+6167,5,Cruzeiro,Dedé,45+2
+6167,5,Cruzeiro,Giorgian De Arrascaeta,56
+6168,5,Athletico-PR,Pablo Felipe Teixeira,31
+6168,5,Atletico-MG,Gleison Bremer,54
+6168,5,Atletico-MG,Róger Guedes,65
+6169,5,Vasco,Yago Pikachu,40
+6169,5,Vasco,Andrés Ríos,83
+6169,5,Vitoria,André Lima,17
+6169,5,Vitoria,Lucas Fernandes,71
+6169,5,Vitoria,Werley Ananias da Silva,76
+6170,5,Corinthians,Rodrigo Eduardo Costa Marinho,38
+6171,5,Bahia,Edigar Junio,12
+6171,5,Bahia,Edigar Junio,38
+6171,5,Sao Paulo,Santiago Tréllez,31
+6171,5,Sao Paulo,Shaylon,90+3
+6172,5,Chapecoense,Héctor Canteros,23
+6172,5,Chapecoense,Guilherme,68
+6172,5,Chapecoense,Leandro,90+1
+6172,5,Flamengo,Paolo Guerrero,49
+6172,5,Flamengo,Vinícius Júnior,78
+6173,5,Santos,Rodrygo Silva de Goes,47
+6173,5,Santos,Gabriel Barbosa,59
+6173,5,Santos,Gabriel Barbosa,76
+6173,5,Parana,Silvinho,90+3
+6174,5,Botafogo-RJ,Rodrigo Lindoso,27
+6174,5,Botafogo-RJ,Kieza,64
+6174,5,Fluminense,Pedro,33
+6175,5,Ceara,Elton Rodrigues Brandão,38
+6175,5,Ceara,Pio,90+3
+6175,5,America-MG,Giovanni,3
+6175,5,America-MG,Giovanni,30
+6176,6,Atletico-MG,Róger Guedes,61
+6177,6,Flamengo,Vinícius Júnior,14
+6177,6,Vasco,Wagner Ferreira dos Santos,18
+6178,6,Palmeiras,Willian Gomes de Siqueira,3
+6178,6,Palmeiras,Antonio Carlos Capocasali,33
+6178,6,Palmeiras,Miguel Borja,42
+6179,6,Vitoria,Wallyson,21
+6179,6,Vitoria,Neilton Mestzk,85
+6179,6,Ceara,Wescley,75
+6180,6,Sao Paulo,Diego Souza,56
+6181,6,America-MG,Juninho,78
+6183,6,Sport,Carlos Henrique Alves Pereira,63
+6183,6,Corinthians,Roger Rodrigues da Silva,55
+6184,6,Fluminense,Thiago Heleno,23
+6184,6,Fluminense,Marcos Júnior,36
+6185,6,Internacional,Lucca Borges de Brito,39
+6185,6,Internacional,Rodrigo Moledo,60
+6185,6,Internacional,Patrick,84
+6186,7,Fluminense,Pedro,22
+6186,7,Fluminense,Pedro,87
+6186,7,Fluminense,Marcos Júnior,26
+6186,7,Chapecoense,Arthur Caike do Nascimento Cruz,50
+6187,7,Palmeiras,Keno,33
+6187,7,Palmeiras,Hyoran,82
+6187,7,Sport,Anselmo de Moraes,51
+6187,7,Sport,Anselmo de Moraes,73
+6187,7,Sport,Rafael Marques Mariano,87
+6188,7,Flamengo,Éverton Ribeiro,80
+6190,7,Internacional,Leandro Damião,64
+6190,7,Internacional,Rossicley Pereira da Silva,90+2
+6190,7,Corinthians,Mateus Vital,5
+6191,7,Bahia,José Élber Pimentel da Silva,67
+6191,7,Bahia,José Rafael Vivian,89
+6191,7,Bahia,Régis,90+3
+6192,7,Cruzeiro,Bruno César Pereira da Silva,75
+6193,7,Botafogo-RJ,Kieza,44
+6193,7,Vitoria,Denílson Pereira Júnior,39
+6194,7,Gremio,Thonny Anderson,81
+6195,7,America-MG,Rafael Moura,12
+6195,7,Sao Paulo,Diego Souza,8
+6195,7,Sao Paulo,Nenê,45+3
+6195,7,Sao Paulo,Nenê,61
+6196,8,Vasco,Yago Pikachu,44
+6197,8,Vitoria,Wallyson,45+1
+6197,8,Vitoria,Aderlan Santos,59
+6197,8,Internacional,Patrick,25
+6197,8,Internacional,Aderlan Santos,40
+6197,8,Internacional,Nicolás Federico López,90+4
+6198,8,Sport,José Rogério de Oliveira Melo,30
+6198,8,Sport,Gabriel Santana,68
+6198,8,Sport,Michel Bastos,72
+6198,8,Atletico-MG,Juan Cazares,49
+6198,8,Atletico-MG,Ricardo Oliveira,66
+6199,8,Chapecoense,Arthur Caike do Nascimento Cruz,63
+6199,8,Chapecoense,Héctor Canteros,79
+6200,8,Sao Paulo,Nenê,20
+6200,8,Sao Paulo,Diego Souza,31
+6200,8,Sao Paulo,Éverton Cardoso da Silva,45+4
+6200,8,Botafogo-RJ,Leonardo Valencia,16
+6200,8,Botafogo-RJ,Rodrigo Pimpão,83
+6202,8,Cruzeiro,Rafael Sóbis,69
+6203,8,Flamengo,Diego Ribas,42
+6203,8,Flamengo,Lucas Paquetá,45+1
+6204,8,Corinthians,Jadson,50
+6205,8,Athletico-PR,Thiago Heleno,18
+6205,8,Athletico-PR,Guilherme Milhomem Gusmão,54
+6207,9,Atletico-MG,Ricardo Oliveira,21
+6207,9,Atletico-MG,Fábio Santos,36
+6207,9,Atletico-MG,Róger Guedes,59
+6207,9,Chapecoense,Leandro,20
+6207,9,Chapecoense,Arthur Caike do Nascimento Cruz,45+6
+6207,9,Chapecoense,Wellington Paulista,64
+6208,9,Vasco,Andrey,53
+6208,9,Botafogo-RJ,Kieza,4
+6208,9,Botafogo-RJ,Igor Rabello,35
+6209,9,Palmeiras,Willian Gomes de Siqueira,55
+6209,9,Palmeiras,Willian Gomes de Siqueira,68
+6209,9,Palmeiras,Eduardo Pereira Rodrigues,70
+6209,9,Sao Paulo,Edu Dracena,30
+6210,9,Flamengo,Felipe Vizeu,80
+6211,9,Gremio,Maicon,11
+6211,9,Gremio,Thaciano,90+3
+6212,9,America-MG,Serginho,40
+6212,9,America-MG,Serginho,76
+6212,9,America-MG,Ademir,90
+6212,9,Athletico-PR,Thiago Carleto,38
+6213,9,Santos,Rodrygo Silva de Goes,22
+6213,9,Santos,Rodrygo Silva de Goes,26
+6213,9,Santos,Rodrygo Silva de Goes,31
+6213,9,Santos,Renato Dirnei Florêncio,45
+6213,9,Santos,Gabriel Barbosa,74
+6213,9,Vitoria,Neilton Mestzk,63
+6213,9,Vitoria,Ramon Menezes Roma,84
+6214,9,Cruzeiro,Luiz Ricardo Alves,19
+6215,9,Parana,Thiago Santos,53
+6215,9,Parana,Guilherme Biteco,88
+6215,9,Fluminense,Pablo Dyego,90+3
+6217,10,Vitoria,Neilton Mestzk,62
+6219,10,Corinthians,Roger Rodrigues da Silva,52
+6219,10,Santos,Victor Ferraz,75
+6220,10,Sport,Fellipe Bastos,46
+6221,10,Palmeiras,Willian Gomes de Siqueira,67
+6221,10,Palmeiras,Willian Gomes de Siqueira,87
+6222,10,Cruzeiro,Raniel,61
+6222,10,Vasco,Andrey,22
+6223,10,Parana,Silvinho,66
+6224,10,Flamengo,Henrique Dourado,30
+6224,10,Flamengo,Felipe Vizeu,79
+6225,10,America-MG,Messias Rodrigues da Silva Júnior,52
+6225,10,Atletico-MG,Ricardo Oliveira,12
+6225,10,Atletico-MG,Juan Cazares,40
+6225,10,Atletico-MG,Tomás Andrade,89
+6226,11,Sao Paulo,Nenê,62
+6227,11,Chapecoense,Bruno da Silva Costa,80
+6227,11,Chapecoense,Elicarlos,90+5
+6228,11,Vasco,Yago Pikachu,19
+6228,11,Vasco,Yago Pikachu,45+1
+6228,11,Vasco,Ramon de Morais Motta,90
+6228,11,Sport,Paulo Marcos de Jesus Ribeiro,43
+6228,11,Sport,Michel Bastos,74
+6230,11,Atletico-MG,Leonardo Silva,35
+6230,11,Atletico-MG,Róger Guedes,45
+6230,11,Atletico-MG,Róger Guedes,90+4
+6230,11,Atletico-MG,Tomás Andrade,64
+6230,11,Atletico-MG,Ricardo Oliveira,87
+6230,11,Fluminense,Gilberto Moraes Júnior,29
+6230,11,Fluminense,Pedro,45+3
+6231,11,Bahia,Régis,45+4
+6231,11,Bahia,Vinícius,74
+6231,11,Bahia,Agustín Allione,90+4
+6231,11,Botafogo-RJ,Kieza,12
+6231,11,Botafogo-RJ,Kieza,51
+6231,11,Botafogo-RJ,Leonardo Valencia,84
+6232,11,Gremio,Everton Sousa Soares,32
+6233,11,Ceara,Felipe Azevedo,26
+6233,11,Ceara,Elton Rodrigues Brandão,88
+6233,11,Palmeiras,Thiago dos Santos,6
+6233,11,Palmeiras,Eduardo Pereira Rodrigues,23
+6234,11,Flamengo,Diego Ribas,21
+6234,11,Flamengo,Felipe Vizeu,66
+6235,11,Santos,Gabriel Barbosa,51
+6235,11,Internacional,Leandro Damião,33
+6235,11,Internacional,Víctor Cuesta,53
+6236,12,Sao Paulo,Nenê,21
+6236,12,Sao Paulo,Nenê,42
+6236,12,Sao Paulo,Éverton Cardoso da Silva,54
+6238,12,Santos,Bruno Henrique,86
+6240,12,Parana,Silvinho,76
+6240,12,Cruzeiro,Rafael Sóbis,65
+6241,12,Palmeiras,Willian Gomes de Siqueira,6
+6241,12,Flamengo,Thuler,55
+6242,12,Botafogo-RJ,Rodrigo Lindoso,34
+6242,12,Botafogo-RJ,Renan Lodi,72
+6243,12,Bahia,Eugenio Mena,90+1
+6244,12,Internacional,Nicolás Federico López,11
+6244,12,Internacional,Patrick,45
+6244,12,Internacional,Víctor Cuesta,70
+6244,12,Vasco,Andrey,65
+6245,12,Atletico-MG,Róger Guedes,81
+6245,12,Atletico-MG,Luan Madson Gedeão de Paiva,90+1
+6245,12,Ceara,Marinaldo dos Santos Oliveira,78
+6246,13,Ceara,Arthur Mendonça Cabral,54
+6247,13,Vitoria,André Lima,36
+6248,13,Corinthians,Rodrigo Eduardo Costa Marinho,3
+6248,13,Corinthians,Ángel Romero,76
+6249,13,Gremio,Bressan,52
+6249,13,Gremio,André Felipe Ribeiro de Souza,59
+6250,13,Sao Paulo,Éverton Cardoso da Silva,48
+6251,13,Chapecoense,Osman,85
+6251,13,Bahia,Gilberto Oliveira Souza Junior,79
+6252,13,Cruzeiro,Giorgian De Arrascaeta,35
+6252,13,Cruzeiro,Róbson Michael Signorini,60
+6252,13,Cruzeiro,Raniel,65
+6252,13,America-MG,Christian Savio,32
+6253,13,Vasco,Andrés Ríos,61
+6253,13,Fluminense,Pedro,89
+6254,13,Santos,Gustavo Henrique Vernes,75
+6254,13,Palmeiras,Lucas Rafael Araújo Lima,6
+6255,13,Athletico-PR,Raphael Cavalcante Veiga,44
+6255,13,Athletico-PR,Paulo André,59
+6255,13,Internacional,William Pottker,13
+6255,13,Internacional,Wellington Alves da Silva,78
+6256,14,Flamengo,Matheus Sávio,5
+6256,14,Flamengo,Lucas Paquetá,7
+6257,14,Sao Paulo,Anderson Martins,56
+6257,14,Sao Paulo,Reinaldo Manoel da Silva,70
+6257,14,Sao Paulo,Reinaldo Manoel da Silva,82
+6257,14,Corinthians,Jonathas Cristian de Jesus,90+1
+6258,14,Vasco,Andrés Ríos,3
+6259,14,Palmeiras,Moisés Lima Magalhães,3
+6259,14,Palmeiras,Bruno Henrique Corsini,76
+6259,14,Palmeiras,Bruno Henrique Corsini,90+4
+6259,14,Atletico-MG,Luan Madson Gedeão de Paiva,51
+6259,14,Atletico-MG,Yimmi Chará,81
+6260,14,Parana,Rodolfo,15
+6261,14,Bahia,José Rafael Vivian,16
+6261,14,Bahia,Vinícius,27
+6261,14,Bahia,Tiago Pagnussat,66
+6261,14,Bahia,Gilberto Oliveira Souza Junior,67
+6261,14,Vitoria,Lucas Rios Marques,73
+6262,14,Sport,Gabriel Santana,20
+6262,14,Fluminense,Pedro,18
+6262,14,Fluminense,Pedro,86
+6263,14,Cruzeiro,Giorgian De Arrascaeta,66
+6263,14,Cruzeiro,Hernán Barcos,81
+6263,14,Athletico-PR,Guilherme Milhomem Gusmão,40
+6265,14,Internacional,William Pottker,76
+6266,15,Fluminense,Gilberto Moraes Júnior,43
+6267,15,Atletico-MG,Leonardo Silva,39
+6267,15,Atletico-MG,Elias Mendes Trindade,73
+6268,15,Corinthians,Ángel Romero,62
+6268,15,Corinthians,Ángel Romero,80
+6269,15,Santos,Gabriel Barbosa,33
+6269,15,Flamengo,Bruno Henrique,2
+6270,15,Botafogo-RJ,Márcio Almeida de Oliveira,55
+6271,15,Vitoria,Erick,61
+6272,15,Gremio,Everton Sousa Soares,45+3
+6272,15,Gremio,Everton Sousa Soares,61
+6272,15,Sao Paulo,Diego Souza,4
+6273,15,America-MG,Juninho,6
+6273,15,America-MG,Giovanni,35
+6273,15,Internacional,Jonatan Álvez,89
+6274,15,Bahia,Lucas Fonseca,28
+6274,15,Bahia,Gilberto Oliveira Souza Junior,87
+6275,15,Athletico-PR,Raphael Cavalcante Veiga,64
+6276,16,Ceara,Leandro Carvalho,41
+6277,16,Palmeiras,Bruno Henrique Corsini,17
+6277,16,Palmeiras,Bruno Henrique Corsini,41
+6277,16,Palmeiras,Lucas Rafael Araújo Lima,78
+6278,16,Vasco,Yago Pikachu,45+1
+6278,16,Corinthians,Ángel Romero,48
+6278,16,Corinthians,Ángel Romero,57
+6278,16,Corinthians,Ángel Romero,90+3
+6278,16,Corinthians,Jadson,79
+6279,16,Flamengo,Réver,14
+6279,16,Flamengo,Lucas Paquetá,48
+6279,16,Flamengo,Éverton Ribeiro,50
+6279,16,Flamengo,Fernando Uribe,63
+6279,16,Sport,Cláudio Winck,44
+6280,16,Athletico-PR,Marcelo Cirino da Silva,12
+6280,16,Athletico-PR,Marcio Antonio de Sousa Junior,22
+6280,16,Athletico-PR,Wellington Aparecido Martins,45+2
+6280,16,Athletico-PR,Pablo Felipe Teixeira,70
+6281,16,Internacional,William Pottker,28
+6281,16,Internacional,William Pottker,45
+6281,16,Internacional,Leandro Damião,58
+6282,16,Sao Paulo,Diego Souza,27
+6282,16,Sao Paulo,Éverton Cardoso da Silva,77
+6283,16,America-MG,Ruy Franco de Almeida Junior,39
+6284,16,Chapecoense,Elicarlos,62
+6284,16,Gremio,Pepê,3
+6285,16,Bahia,Gilberto Oliveira Souza Junior,84
+6285,16,Bahia,Régis,90+4
+6285,16,Atletico-MG,Matheus Galdezani,5
+6285,16,Atletico-MG,Ricardo Oliveira,90+2
+6287,17,Gremio,Jael,45+1
+6287,17,Gremio,Mário Sérgio Santos Costa,48
+6289,17,Vitoria,Neilton Mestzk,72
+6289,17,Cruzeiro,Manoel Messias Silva Carvalho,75
+6290,17,Ceara,Juninho Quixadá,15
+6292,17,Sao Paulo,Joao Rojas,2
+6292,17,Sao Paulo,Santiago Tréllez,81
+6292,17,Vasco,Yago Pikachu,55
+6293,17,Fluminense,Pedro,21
+6293,17,Bahia,Edigar Junio,82
+6294,17,Sport,Carlos Henrique Alves Pereira,90+2
+6294,17,Chapecoense,Wellington Paulista,13
+6295,17,Internacional,Edenílson Andrade dos Santos,90+12
+6296,20,Ceara,Arthur Mendonça Cabral,78
+6296,20,Santos,Jean Mota Oliveira de Souza,87
+6297,20,Internacional,Patrick,23
+6298,20,Parana,Junior,37
+6298,20,Sao Paulo,Nenê,8
+6299,20,Palmeiras,Lucas Rafael Araújo Lima,78
+6299,20,Palmeiras,Lucas Rafael Araújo Lima,87
+6300,20,America-MG,Luan Michel Louzã,47
+6300,20,America-MG,Rafael Moura,67
+6301,20,Fluminense,Gum,17
+6302,20,Gremio,Everton Sousa Soares,60
+6302,20,Cruzeiro,Bruno César Pereira da Silva,44
+6303,20,Flamengo,Diego Ribas,41
+6305,20,Chapecoense,Bruno Guimarães,78
+6305,20,Chapecoense,Leandro,88
+6305,20,Athletico-PR,Pablo Felipe Teixeira,61
+6307,18,Bahia,Gilberto Oliveira Souza Junior,55
+6308,18,Parana,Alex Paulo Menezes Santana,90+6
+6308,18,Botafogo-RJ,Rodrigo Lindoso,72
+6309,18,Atletico-MG,Elias Mendes Trindade,8
+6309,18,Atletico-MG,Ricardo Oliveira,71
+6309,18,Atletico-MG,Ricardo Oliveira,90+5
+6309,18,Santos,Gabriel Barbosa,27
+6310,18,Sport,Jonathan Marlone,86
+6310,18,Sao Paulo,Diego Souza,30
+6310,18,Sao Paulo,Nenê,52
+6310,18,Sao Paulo,Santiago Tréllez,90
+6311,18,Flamengo,Henrique Dourado,23
+6312,18,Chapecoense,Diego Torres,70
+6312,18,Chapecoense,Agustín Doffo,90+5
+6312,18,Corinthians,Marquinhos,6
+6313,18,Gremio,Douglas dos Santos,12
+6313,18,Gremio,Jailson Marques Siqueira,21
+6313,18,Gremio,Pepê,58
+6313,18,Gremio,Everton Sousa Soares,82
+6314,18,Palmeiras,Deyverson,60
+6315,18,Internacional,Nicolás Federico López,23
+6315,18,Internacional,Nicolás Federico López,45+1
+6315,18,Internacional,Jonatan Álvez,39
+6316,19,Santos,Eduardo Sasha,2
+6316,19,Santos,Rodrygo Silva de Goes,82
+6316,19,Santos,Victor Ferraz,84
+6317,19,Gremio,Everton Sousa Soares,55
+6318,19,Athletico-PR,Pablo Felipe Teixeira,10
+6318,19,Athletico-PR,Raphael Cavalcante Veiga,17
+6318,19,Athletico-PR,Ivaldo,21
+6319,19,Internacional,Camilo,90+6
+6320,19,Palmeiras,Deyverson,11
+6320,19,Palmeiras,Deyverson,29
+6320,19,Palmeiras,Eduardo Pereira Rodrigues,59
+6321,19,Atletico-MG,Luan Madson Gedeão de Paiva,62
+6321,19,Atletico-MG,Juan Cazares,81
+6321,19,Atletico-MG,Tomás Andrade,90
+6322,19,Cruzeiro,Thiago Neves,64
+6322,19,Bahia,Douglas Grolli,60
+6324,19,Sao Paulo,Shaylon,3
+6324,19,Sao Paulo,Hudson,83
+6325,19,Vasco,Wagner Ferreira dos Santos,60
+6325,19,Ceara,Tiago dos Santos Alves,66
+6326,21,Santos,Derlis González,57
+6326,21,Santos,Gabriel Barbosa,75
+6327,21,Corinthians,Henrique Adriano Buss,36
+6328,21,Athletico-PR,Pablo Felipe Teixeira,13
+6328,21,Athletico-PR,Jonathan Cícero Moreira,70
+6328,21,Gremio,Cícero Santos,9
+6329,21,Cruzeiro,Raniel,14
+6329,21,Cruzeiro,Ayrton Lucas Dantas de Medeiros,73
+6329,21,Fluminense,Henrique Pacheco Lima,27
+6330,21,Botafogo-RJ,Joel Carli,62
+6330,21,Botafogo-RJ,Rodrigo Aguirre,84
+6331,21,Sao Paulo,Bruno Peres,78
+6332,21,America-MG,Rafael Moura,23
+6332,21,America-MG,Gérson Magrão,87
+6332,21,Flamengo,Éverton Ribeiro,15
+6332,21,Flamengo,Lucas Paquetá,62
+6334,21,Vitoria,Léo Pereira,69
+6335,21,Vasco,Wagner Ferreira dos Santos,54
+6335,21,Vasco,Maxi López,85
+6335,21,Vasco,Thiago Galhardo,90+2
+6335,21,Chapecoense,Leandro,79
+6336,22,Vitoria,Léo Pereira,57
+6337,22,Gremio,Jael,12
+6337,22,Gremio,Jael,45
+6337,22,Gremio,Alisson Euler de Freitas Castro,61
+6337,22,Gremio,André Felipe Ribeiro de Souza,76
+6338,22,Santos,Gabriel Barbosa,5
+6338,22,Santos,Gabriel Barbosa,67
+6338,22,Santos,Gabriel Barbosa,82
+6339,22,Corinthians,Victor,20
+6339,22,Atletico-MG,Fábio Santos,36
+6340,22,Ceara,Leandro Carvalho,90+1
+6341,22,Athletico-PR,Pablo Felipe Teixeira,68
+6341,22,Athletico-PR,Rony,78
+6342,22,Sport,Gabriel Santana,15
+6343,22,Sao Paulo,Santiago Tréllez,72
+6343,22,Fluminense,Anderson Martins,54
+6345,22,Chapecoense,Rafael Thyere de Albuquerque Marques,61
+6345,22,Palmeiras,Hyoran,14
+6345,22,Palmeiras,Miguel Borja,52
+6346,23,Bahia,Gilberto Oliveira Souza Junior,53
+6346,23,Bahia,Tiago Pagnussat,85
+6347,23,Botafogo-RJ,Luiz Fernando Moraes dos Santos,11
+6347,23,Cruzeiro,Edílson Mendes Guimarães,37
+6348,23,Ceara,Éverson Felipe Marques Pires,19
+6348,23,Ceara,Danilo Avelar,57
+6348,23,Corinthians,Roger Rodrigues da Silva,72
+6349,23,Palmeiras,Willian Gomes de Siqueira,71
+6349,23,Palmeiras,Moisés Lima Magalhães,90+5
+6350,23,Parana,Rafael Grampola,39
+6350,23,Chapecoense,Diego Torres,87
+6351,23,Atletico-MG,Régis Ribeiro de Souza,9
+6352,23,Internacional,William Pottker,6
+6352,23,Internacional,Rodrigo Dourado,59
+6352,23,Flamengo,Victor Vinícius Coelho Santos,57
+6355,23,America-MG,Carlos Emiliano Pereira,31
+6355,23,America-MG,Gérson Magrão,80
+6355,23,Vasco,Maxi López,78
+6357,24,Sao Paulo,Diego Souza,60
+6358,24,Flamengo,Renê Rodrigues Martins,44
+6358,24,Flamengo,Diego Ribas,57
+6360,24,Palmeiras,Deyverson,57
+6361,24,Fluminense,Rodrigo Junior Paula Silva,11
+6362,24,Internacional,Edenílson Andrade dos Santos,59
+6363,24,Santos,Gabriel Barbosa,52
+6363,24,Santos,Gabriel Barbosa,78
+6364,24,Vitoria,Erick,73
+6365,24,Atletico-MG,Leonardo Silva,26
+6365,24,Atletico-MG,Elias Mendes Trindade,68
+6365,24,Atletico-MG,Ricardo Oliveira,83
+6365,24,Athletico-PR,Iago Maidana,10
+6366,25,Ceara,Calyson,28
+6366,25,Ceara,Samuel Xavier,49
+6367,25,Gremio,Douglas dos Santos,54
+6367,25,Gremio,Juninho Capixaba,63
+6368,25,Vasco,Andrés Ríos,28
+6368,25,Flamengo,Luiz Gustavo,62
+6369,25,Botafogo-RJ,Rodrigo Lindoso,24
+6371,25,Bahia,Gilberto Oliveira Souza Junior,18
+6371,25,Palmeiras,Felipe Melo,78
+6372,25,Athletico-PR,Raphael Cavalcante Veiga,18
+6372,25,Athletico-PR,Pablo Felipe Teixeira,45+2
+6372,25,Athletico-PR,Léo Pereira,71
+6372,25,Fluminense,Luciano da Rocha Neves,60
+6374,25,Corinthians,Jadson,59
+6374,25,Corinthians,Danilo Avelar,89
+6374,25,Sport,Hernane Vidal de Souza,22
+6375,25,Chapecoense,Leandro,37
+6375,25,Chapecoense,Leandro,82
+6375,25,Internacional,Nicolás Federico López,27
+6376,26,Sao Paulo,Diego Souza,45+1
+6376,26,America-MG,Matheus Leonardo Sales Cardoso,81
+6377,26,Gremio,Pedro Geromel,21
+6377,26,Gremio,Thonny Anderson,44
+6377,26,Gremio,Luan Guilherme de Jesus Vieira,69
+6377,26,Ceara,Luiz Otávio,13
+6377,26,Ceara,Arthur Mendonça Cabral,27
+6378,26,Athletico-PR,Raphael Cavalcante Veiga,8
+6378,26,Athletico-PR,Pablo Felipe Teixeira,34
+6378,26,Athletico-PR,Marcelo Cirino da Silva,89
+6379,26,Flamengo,Willian Arão,2
+6379,26,Flamengo,Lucas Paquetá,54
+6379,26,Atletico-MG,Leonardo Silva,23
+6380,26,Corinthians,Douglas Augusto Soares Gomes,50
+6380,26,Internacional,Leandro Damião,45
+6381,26,Palmeiras,Willian Gomes de Siqueira,81
+6382,26,Vitoria,Lucas Fernandes,1
+6382,26,Vitoria,Fabiano da Silva Souza,52
+6382,26,Vitoria,Maurício Cordeiro,88
+6382,26,Botafogo-RJ,Kieza,24
+6382,26,Botafogo-RJ,Rodrigo Lindoso,43
+6382,26,Botafogo-RJ,Leonardo da Silva Gomes,54
+6382,26,Botafogo-RJ,Erik Nascimento de Lima,64
+6383,26,Cruzeiro,Luiz Ricardo Alves,46
+6383,26,Cruzeiro,Raniel,83
+6383,26,Santos,Gabriel Barbosa,16
+6384,26,Chapecoense,Leandro,79
+6384,26,Fluminense,Everaldo,11
+6384,26,Fluminense,Junior Sornoza,36
+6385,26,Vasco,Yago Pikachu,32
+6385,26,Vasco,Marrony,78
+6385,26,Bahia,Gilberto Oliveira Souza Junior,45+4
+6386,27,Gremio,Everton Sousa Soares,90+3
+6389,27,Palmeiras,Lucas Rafael Araújo Lima,23
+6389,27,Palmeiras,Hyoran,42
+6389,27,Palmeiras,Gustavo Gómez,66
+6389,27,Cruzeiro,Federico Mancuello,31
+6390,27,Atletico-MG,Elias Mendes Trindade,9
+6390,27,Atletico-MG,Fábio Santos,26
+6390,27,Atletico-MG,Emerson Royal,28
+6390,27,Atletico-MG,Juan Cazares,30
+6390,27,Atletico-MG,Ricardo Oliveira,70
+6390,27,Sport,Leonardo Silva,7
+6390,27,Sport,Michel Bastos,57
+6391,27,Santos,Carlos Andrés Sánchez,90+7
+6392,27,Botafogo-RJ,Jean Carlos de Souza Irmer,5
+6392,27,Botafogo-RJ,Kieza,25
+6392,27,Sao Paulo,Diego Souza,8
+6392,27,Sao Paulo,Gonzalo Carneiro,62
+6393,27,Internacional,Leandro Damião,63
+6393,27,Internacional,Andrés D'Alessandro,86
+6393,27,Vitoria,Emerson Santos,2
+6394,27,Ceara,Andrevaldo Santos,57
+6394,27,Ceara,Arthur Mendonça Cabral,59
+6394,27,Ceara,Leandro Carvalho,77
+6394,27,Chapecoense,Agustín Doffo,35
+6395,27,Parana,Alex Paulo Menezes Santana,9
+6395,27,Vasco,Maxi López,45+5
+6396,28,Sport,Adryelson,79
+6396,28,Sport,Mateus Gonçalves Martins,88
+6396,28,Internacional,Nicolás Federico López,67
+6397,28,Flamengo,Lucas Paquetá,60
+6397,28,Flamengo,Lucas Paquetá,66
+6397,28,Flamengo,Renê Rodrigues Martins,90+2
+6398,28,Santos,Carlos Andrés Sánchez,8
+6399,28,Athletico-PR,Marcelo Cirino da Silva,1
+6399,28,Athletico-PR,Raphael Cavalcante Veiga,41
+6399,28,Athletico-PR,Nikão,56
+6399,28,Athletico-PR,Pablo Felipe Teixeira,75
+6400,28,Chapecoense,Agustín Doffo,90+3
+6401,28,Palmeiras,Gustavo Gómez,34
+6401,28,Palmeiras,Deyverson,37
+6402,28,Gremio,Juninho Capixaba,85
+6402,28,Gremio,Jael,87
+6402,28,Bahia,José Élber Pimentel da Silva,3
+6402,28,Bahia,José Élber Pimentel da Silva,67
+6403,28,Fluminense,Jadson,35
+6403,28,Fluminense,Jadson,48
+6403,28,Fluminense,Richard Candido Coelho,41
+6403,28,Fluminense,Luciano da Rocha Neves,85
+6404,28,Botafogo-RJ,Luiz Fernando Moraes dos Santos,17
+6404,28,Vasco,Maxi López,36
+6405,28,Ceara,Arthur Mendonça Cabral,63
+6405,28,Ceara,Arthur Mendonça Cabral,81
+6406,29,Flamengo,Fernando Uribe,11
+6406,29,Flamengo,Fernando Uribe,50
+6406,29,Flamengo,Léo Duarte,45+2
+6407,29,Santos,Gabriel Barbosa,21
+6408,29,Bahia,Vinícius,85
+6408,29,Bahia,Vinícius,89
+6409,29,Vitoria,Lucas Fernandes,38
+6410,29,Vasco,Yago Pikachu,49
+6410,29,Vasco,Maxi López,70
+6411,29,Internacional,Leandro Damião,45+1
+6411,29,Internacional,Leandro Damião,52
+6411,29,Internacional,Nicolás Federico López,90+5
+6411,29,Sao Paulo,Liziero,3
+6412,29,Palmeiras,Deyverson,8
+6412,29,Palmeiras,Deyverson,79
+6414,29,Athletico-PR,Thiago Heleno,48
+6414,29,Athletico-PR,Bérgson Gustavo Silveira da Silva,56
+6414,29,Athletico-PR,Bérgson Gustavo Silveira da Silva,84
+6414,29,Athletico-PR,Rony,86
+6416,30,America-MG,Juninho,37
+6416,30,Gremio,Jean Pyerre,66
+6417,30,Bahia,Edigar Junio,48
+6419,30,Sport,Mateus Gonçalves Martins,25
+6419,30,Sport,Cláudio Winck,68
+6419,30,Vasco,Fabrício dos Santos Silva,39
+6420,30,Vitoria,Rhayner,9
+6420,30,Vitoria,Neilton Mestzk,90+3
+6420,30,Corinthians,Jadson,31
+6420,30,Corinthians,Roger Rodrigues da Silva,90+1
+6421,30,Fluminense,Luciano da Rocha Neves,63
+6422,30,Palmeiras,Bruno Henrique Corsini,18
+6422,30,Palmeiras,Bruno Henrique Corsini,35
+6422,30,Ceara,Arthur Mendonça Cabral,55
+6423,30,Cruzeiro,Thiago Neves,22
+6423,30,Cruzeiro,Giorgian De Arrascaeta,30
+6423,30,Cruzeiro,Dedé,44
+6424,30,Flamengo,Lucas Paquetá,19
+6424,30,Flamengo,Victor Vinícius Coelho Santos,51
+6424,30,Flamengo,Fernando Uribe,57
+6424,30,Flamengo,Henrique Dourado,90+1
+6425,30,Internacional,Leandro Damião,44
+6425,30,Internacional,Patrick,71
+6425,30,Santos,Gabriel Barbosa,50
+6425,30,Santos,Fabiano,79
+6426,31,Sao Paulo,Bruno Alves,37
+6427,31,Vasco,Maxi López,90+2
+6427,31,Internacional,Jonatan Álvez,85
+6428,31,Santos,Gabriel Barbosa,84
+6428,31,Santos,Victor Ferraz,88
+6428,31,Santos,Carlos Andrés Sánchez,89
+6429,31,Gremio,Matheus Henrique de Souza,38
+6429,31,Gremio,Juninho Capixaba,52
+6429,31,Gremio,Thonny Anderson,59
+6429,31,Sport,Jair Rodrigues Júnior,7
+6429,31,Sport,Jair Rodrigues Júnior,64
+6429,31,Sport,Mateus Gonçalves Martins,30
+6429,31,Sport,Gabriel Santana,53
+6430,31,Corinthians,Danilo Gabriel de Andrade,47
+6430,31,Corinthians,Danilo Gabriel de Andrade,89
+6430,31,Bahia,Clayton da Silveira da Silva,85
+6431,31,Chapecoense,Wellington Paulista,60
+6432,31,Flamengo,Marlos Moreno,81
+6432,31,Palmeiras,Eduardo Pereira Rodrigues,50
+6433,31,Cruzeiro,Giorgian De Arrascaeta,10
+6433,31,Cruzeiro,Fred,15
+6433,31,Cruzeiro,Rafael Sóbis,48
+6433,31,Parana,Egídio de Araújo Pereira Júnior,20
+6434,31,Athletico-PR,Bérgson Gustavo Silveira da Silva,56
+6434,31,Athletico-PR,Pablo Felipe Teixeira,84
+6434,31,Botafogo-RJ,Brenner Marlos Varanda de Oliveira,30
+6435,31,Ceara,Juninho Quixadá,10
+6435,31,Ceara,Leandro Carvalho,62
+6435,31,Atletico-MG,Juan Cazares,26
+6436,32,Vasco,Maxi López,59
+6437,32,Gremio,Pedro Geromel,3
+6438,32,Palmeiras,Eduardo Pereira Rodrigues,14
+6438,32,Palmeiras,Edu Dracena,40
+6438,32,Palmeiras,Victor Luis,71
+6438,32,Santos,Jonathan Copete,55
+6438,32,Santos,José Rodolfo Pires Ribeiro,65
+6439,32,America-MG,Rafael Moura,71
+6439,32,Cruzeiro,Giorgian De Arrascaeta,18
+6439,32,Cruzeiro,Thiago Neves,50
+6440,32,Parana,Alex Paulo Menezes Santana,59
+6440,32,Vitoria,Léo Pereira,84
+6441,32,Sao Paulo,Diego Souza,8
+6441,32,Sao Paulo,Hélio Junio Nunes de Castro,50
+6441,32,Flamengo,Fernando Uribe,10
+6441,32,Flamengo,Rodinei de Almeida,82
+6442,32,Botafogo-RJ,Rodrigo Lindoso,28
+6443,32,Internacional,Rodrigo Moledo,82
+6443,32,Internacional,Andrés D'Alessandro,90+4
+6443,32,Athletico-PR,Guilherme Camacho,64
+6444,32,Bahia,José Élber Pimentel da Silva,67
+6445,32,Sport,Gabriel Santana,53
+6446,33,Parana,Andrey Nunes dos Santos,90
+6447,33,Corinthians,Ralf de Souza Teles,72
+6447,33,Sao Paulo,Brenner,81
+6448,33,Botafogo-RJ,Erik Nascimento de Lima,19
+6448,33,Botafogo-RJ,Leonardo Valencia,29
+6448,33,Flamengo,Victor Vinícius Coelho Santos,49
+6449,33,Athletico-PR,Marcelo Cirino da Silva,10
+6449,33,Athletico-PR,Raphael Cavalcante Veiga,22
+6450,33,Vitoria,Léo Pereira,8
+6450,33,Vitoria,Léo Pereira,68
+6450,33,Bahia,Nílton Ferreira Júnior,39
+6450,33,Bahia,Eric dos Santos Rodrigues,72
+6451,33,Ceara,Ricardo Dias Acosta,42
+6451,33,Internacional,Leandro Damião,16
+6452,33,Atletico-MG,Elias Mendes Trindade,64
+6452,33,Palmeiras,Bruno Henrique Corsini,77
+6453,33,Gremio,Jael,20
+6453,33,Gremio,Matheus Henrique de Souza,90+5
+6453,33,Vasco,Thiago Galhardo,12
+6455,33,Chapecoense,Leandro,29
+6456,34,Vasco,Thiago Galhardo,67
+6456,34,Athletico-PR,Léo Pereira,90+5
+6457,34,Bahia,José Rafael Vivian,44
+6457,34,Bahia,Edigar Junio,90+3
+6457,34,Ceara,Calyson,8
+6458,34,Atletico-MG,Fábio Santos,14
+6460,34,Palmeiras,Miguel Borja,41
+6460,34,Palmeiras,Felipe Melo,83
+6460,34,Palmeiras,Luan Garcia Teixeira,90
+6461,34,Cruzeiro,David Corrêa da Fonseca,14
+6462,34,Botafogo-RJ,Luiz Fernando Moraes dos Santos,73
+6463,34,Flamengo,Henrique Dourado,73
+6464,34,Sao Paulo,Michel Ferreira dos Santos,74
+6464,34,Gremio,Everton Sousa Soares,57
+6465,34,Internacional,Leandro Damião,24
+6465,34,Internacional,Edenílson Andrade dos Santos,45+1
+6466,35,Corinthians,Mateus Vital,50
+6467,35,Vitoria,Neilton Mestzk,90+2
+6467,35,Athletico-PR,Ramon Menezes Roma,26
+6467,35,Athletico-PR,Bruno Guimarães,86
+6468,35,Atletico-MG,Juan Cazares,51
+6469,35,Parana,Keslley dos Santos Lopes,35
+6469,35,Palmeiras,Gustavo Scarpa,54
+6470,35,America-MG,Rafael Moura,31
+6470,35,America-MG,Matheus Leonardo Sales Cardoso,65
+6470,35,Santos,Gabriel Barbosa,45+1
+6471,35,Flamengo,Willian Arão,82
+6472,35,Botafogo-RJ,Erik Nascimento de Lima,42
+6473,35,Sao Paulo,Diego Souza,31
+6474,35,Gremio,Cícero Santos,24
+6474,35,Gremio,Everton Sousa Soares,75
+6476,36,Internacional,Andrés D'Alessandro,83
+6476,36,Atletico-MG,Juan Cazares,42
+6476,36,Atletico-MG,David Terans,90+3
+6477,36,Santos,Rodrygo Silva de Goes,36
+6477,36,Botafogo-RJ,Brenner Marlos Varanda de Oliveira,59
+6478,36,Athletico-PR,Léo Pereira,52
+6479,36,Palmeiras,Luan Garcia Teixeira,59
+6479,36,Palmeiras,Willian Gomes de Siqueira,76
+6479,36,Palmeiras,Eduardo Pereira Rodrigues,78
+6479,36,Palmeiras,Deyverson,82
+6480,36,Flamengo,Fernando Uribe,47
+6480,36,Flamengo,Diego Ribas,90
+6481,36,Cruzeiro,Aderlan Santos,43
+6481,36,Cruzeiro,Fred,55
+6481,36,Cruzeiro,Fred,72
+6482,36,Vasco,Andrey,18
+6482,36,Vasco,Yago Pikachu,90+5
+6483,36,Ceara,Paulo Roberto Valoura Junior,33
+6484,36,Bahia,José Rafael Vivian,53
+6484,36,Bahia,Edigar Junio,55
+6485,36,Chapecoense,Leandro,4
+6485,36,Chapecoense,Leandro,8
+6485,36,Sport,Michel Bastos,68
+6486,37,Santos,Carlos Andrés Sánchez,2
+6486,37,Santos,Wanderson Felipe Cardoso dos Santos,34
+6486,37,Santos,Gabriel Barbosa,37
+6486,37,Atletico-MG,Ricardo Oliveira,17
+6486,37,Atletico-MG,Ricardo Oliveira,53
+6487,37,Athletico-PR,Marcio Antonio de Sousa Junior,53
+6487,37,Athletico-PR,Lucho González,58
+6487,37,Ceara,Leandro Carvalho,26
+6487,37,Ceara,Wescley,83
+6488,37,Flamengo,Éverton Ribeiro,8
+6488,37,Flamengo,Éverton Ribeiro,52
+6490,37,Palmeiras,Deyverson,72
+6491,37,Internacional,Nicolás Federico López,75
+6491,37,Internacional,Nicolás Federico López,89
+6492,37,America-MG,Juninho,47
+6494,37,Botafogo-RJ,Erik Nascimento de Lima,7
+6494,37,Botafogo-RJ,Erik Nascimento de Lima,75
+6494,37,Parana,Alex Paulo Menezes Santana,64
+6496,38,Flamengo,Luiz Rhodolfo Dini Gaioto,23
+6496,38,Athletico-PR,Matheus Rossetto,65
+6496,38,Athletico-PR,Rony,71
+6497,38,Atletico-MG,Juan Cazares,18
+6499,38,Gremio,Jael,12
+6501,38,Sport,José Rogério de Oliveira Melo,84
+6501,38,Sport,Hernane Vidal de Souza,90+2
+6501,38,Santos,Rodrygo Silva de Goes,90+4
+6502,38,Parana,Jhonny Lucas,90+2
+6502,38,Internacional,Jonatan Álvez,66
+6503,38,Fluminense,Richard Candido Coelho,41
+6504,38,Chapecoense,Leandro,68
+6505,38,Palmeiras,Edu Dracena,43
+6505,38,Palmeiras,Gustavo Scarpa,57
+6505,38,Palmeiras,Bruno Henrique Corsini,90
+6505,38,Vitoria,Yago Rocha,71
+6505,38,Vitoria,Luan Silva dos Santos,73
