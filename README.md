@@ -4,9 +4,13 @@
 ##### Integrantes
 
 Erik
-Jonathas 
-Kaique 
-Leonardo 
+<br>
+Jonathas
+<br>
+Kaique
+<br>
+Leonardo
+<br>
 Victor 
 
 #### Professor 
