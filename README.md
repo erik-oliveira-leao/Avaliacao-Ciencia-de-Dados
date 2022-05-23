@@ -1,6 +1,6 @@
 # Avaliacao-Ciencia-de-Dados
 <p>Projeto Disciplina Ciência de Dados Universidade nove de julho Ciência da Computação.</p> 
-&nbsp;.Integrantes 
+<p>Integrantes</p> 
 Erik 
 Jonathas 
 aique 
