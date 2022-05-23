@@ -1,7 +1,7 @@
 # Avaliacao-Ciencia-de-Dados
 <p>Projeto Disciplina Ciência de Dados Universidade nove de julho Ciência da Computação.</p> 
 <br>Integrantes</br> 
-Erik 
+<br>Erik</br> 
 Jonathas 
 aique 
 Leonardo 
